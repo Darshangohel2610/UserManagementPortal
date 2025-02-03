@@ -15,7 +15,7 @@ A simple **User Management Portal** built with **React (Functional Components, H
 - **Frontend:** React (Hooks, Functional Components)
 - **Styling:** Tailwind CSS
 - **API Calls:** Axios
-- **Backend (Placeholder API):** Django (or any API service providing user data)
+- **Backend (Placeholder API):** json server
 
 ## Installation & Setup ⚙️
 1. Clone the repository:
