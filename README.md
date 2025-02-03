@@ -1,6 +1,6 @@
 # User Management Portal
 
-A simple **User Management Portal** built with **React (Functional Components, Hooks, Tailwind CSS, ShadCN UI)** for managing users. The portal allows users to **add, update, delete**, and view a list of users, with client-side validation and a confirmation popup for deletions.
+A simple **User Management Portal** built with **React (Functional Components, Hooks, Tailwind CSS)** for managing users. The portal allows users to **add, update, delete**, and view a list of users, with client-side validation and a confirmation popup for deletions.
 
 ## Features 🚀
 - **User Listing:** View all users in a table.
@@ -9,7 +9,7 @@ A simple **User Management Portal** built with **React (Functional Components, H
 - **Delete User:** Remove a user with confirmation popup.
 - **Client-side Validation:** Ensures correct data entry before submission.
 - **API Integration:** Fetch, add, update, and delete users via backend APIs.
-- **Styled UI:** Uses **Tailwind CSS** and **ShadCN UI** for a clean design.
+- **Styled UI:** Uses **Tailwind CSS** for a clean design.
 
 ## Tech Stack 🛠️
 - **Frontend:** React (Hooks, Functional Components)
