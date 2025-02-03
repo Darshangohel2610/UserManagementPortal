@@ -13,7 +13,7 @@ A simple **User Management Portal** built with **React (Functional Components, H
 
 ## Tech Stack 🛠️
 - **Frontend:** React (Hooks, Functional Components)
-- **Styling:** Tailwind CSS, ShadCN UI
+- **Styling:** Tailwind CSS
 - **API Calls:** Axios
 - **Backend (Placeholder API):** Django (or any API service providing user data)
 
