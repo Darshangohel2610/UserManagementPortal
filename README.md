@@ -19,18 +19,22 @@ A simple **User Management Portal** built with **React (Functional Components, H
 
 ## Installation & Setup ⚙️
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/user-management-portal.git
-   cd user-management-portal
-   ```
+    ```bash
+    git clone https://github.com/your-repo/user-management-portal.git
+    cd user-management-portal
+    ```
 2. Install dependencies:
-   ```bash
-   npm install
-   ```
+    ```bash
+    npm install
+    ```
 3. Start the React application:
-   ```bash
-   npm start
-   ```
+    ```bash
+    npm start
+    ```
+4. Run JSON server in another terminal on port 3001:
+    ```bash
+    npx json-server --watch db.json --port 3001
+    ```
 
 ## File Structure 📁
 ```
